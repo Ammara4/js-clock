@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.container button {
+    background-color: salmon;
+    border: 2px solid salmon;
+    border-radius: 1.4rem;
+    padding: 0.9rem 1rem;
+    margin: 1rem 1rem;
+    cursor: pointer;
+}
+
+p {
+
+    border: 1px solid salmon;
+    display: flex;
+    justify-content: center;
+    margin: 1rem 10rem;
+    align-items: center;
+    display: none;
+}
